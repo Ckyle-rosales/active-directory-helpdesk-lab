@@ -1,6 +1,3 @@
-# active-directory-helpdesk-lab
-# Active Directory Help Desk Lab
-------------------------------------------
 This project demonstrates a basic Active Directory help desk environment using Windows Server, Windows 10/11 Pro, and VirtualBox. The lab simulates common IT support tasks such as creating users, managing security groups, joining a client computer to a domain, configuring shared folder permissions, resetting passwords, unlocking accounts, and applying Group Policy.
 
 Lab Environment
